@@ -6,4 +6,4 @@ sum = num1 + num2
 
 # Display the sum using an f-string
 print(f"The sum of {num1} and {num2} is: {sum}")
-print(sum)
+print(num1)
